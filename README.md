@@ -1,9 +1,15 @@
+<h3 align="left">Favorite Language</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=takanobu68)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=takanobu68&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takanobu68" />
 </a>
+
 <!--
 **takanobu68/takanobu68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
